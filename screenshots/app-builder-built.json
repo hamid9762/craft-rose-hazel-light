@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hazro Run",
+      "hasCanvas": false,
+      "bodyTextLen": 89,
+      "bodyTextHash": "afa538523c72a60f4d260a960c8cb6130d9fc24ee000bb0d978aba5116b8d215",
+      "bodyTextPrefix": "SHINKA · CHHACHH HAZRO RUN BY HAMID Start in Shinka. Run Hazro T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hazro Run",
+      "hasCanvas": false,
+      "bodyTextLen": 89,
+      "bodyTextHash": "afa538523c72a60f4d260a960c8cb6130d9fc24ee000bb0d978aba5116b8d215",
+      "bodyTextPrefix": "SHINKA · CHHACHH HAZRO RUN BY HAMID Start in Shinka. Run Hazro T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: canvas disappeared",
+    "mobile: body text collapsed (1052 -> 89 chars)"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hazro Run",
+      "hasCanvas": false,
+      "bodyTextLen": 89,
+      "bodyTextHash": "afa538523c72a60f4d260a960c8cb6130d9fc24ee000bb0d978aba5116b8d215",
+      "bodyTextPrefix": "SHINKA · CHHACHH HAZRO RUN BY HAMID Start in Shinka. Run Hazro T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hazro Run",
+      "hasCanvas": true,
+      "bodyTextLen": 1056,
+      "bodyTextHash": "208e6f4140d8309ee576d141111be44c77e48f16a89b6035f59613edc47e1ce5",
+      "bodyTextPrefix": "SHINKA · CHHACHH HAZRO RUN BY HAMID Start in Shinka — شینکا. Voi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
